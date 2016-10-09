@@ -13,6 +13,7 @@
 <li>Abhyudaya Srinet             (https://github.com/abhyudayasrinet)
 <li>Ayush Agarwal                (https://github.com/ayushagarwal95)
 <li>Amit Srivastava              (https://github.com/amitspk)
+<li>Abhinav Das                  (https://github.com/abhinav-adtechs)
 
 <sub>------B</sub>
 <li>Baishali Ghosh               (https://github.com/baishali-ghosh)
