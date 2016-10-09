@@ -9,4 +9,4 @@
 #
 ------------------------------------------------------------------------------------------------------------------------------------------
 <sub>
-Diretory maintained by <a href "http://github.com/itsN1X">itsN1X</a> .
+Directory maintained by <a href "http://github.com/itsN1X">itsN1X</a> .
