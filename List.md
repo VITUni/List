@@ -13,6 +13,7 @@
 |  |  |  |  |  |
 |  |Daksh Asija  |(https://github.com/dakshasija)  |  |  |
 |  |  |  |  |  |
+|  |Hemanth Sandesh Vaddi||https://github.com/hvaddi9|||
 |  |Karthik Balakrishnan  |(https://github.com/karthikb351)  |  |  |
 |  |Kishore Narendran  |(https://github.com/kishore-narendran)  |  |  |
 |  |Krishna Kalubandi  |(https://github.com/kp96/)  |  |  |
@@ -41,34 +42,6 @@
 ||Prince Bansal |(https://github.com/princebansal)|||
 ||Priyanshu Jindal |(https://github.com/prijindal)|||
 ||Praba Prakash |(https://github.com/prabaprakash)|||
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
