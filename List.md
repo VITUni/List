@@ -1,8 +1,5 @@
-### ** NOTE: All the students from VIT University ( Vellore and Chennai Campus) are usually found & added here by using Github API. A sample this search is available at this URL (https://api.github.com/search/users?q=+location:vit). So, if you are in VIT please do include "VIT University" in your current location by editing your profile here (https://github.com/settings/profile). **
-###### Add yourself to >>>>>>> @VITUni <<<<<<<<
-###### Thank You, Happy Coding!
-
-<sub>
+###### ** NOTE: All the students from VIT University ( Vellore and Chennai Campus) are usually found & added here by using Github API. A sample this search is available at this URL (https://api.github.com/search/users?q=+location:vit). So, if you are in VIT please do include "VIT University" in your current location by editing your profile here (https://github.com/settings/profile). **Add yourself to >>>>>> Thank You, Happy Coding @VITUni <<<<<<<<
+<font size ="4">
 
 |   |Full Name  |Profile  |GitJoin  |Org@VITuni |  
 |---|---|---|---|---|
@@ -117,4 +114,4 @@ Vishnu Ramineni-05           (https://github.com/vishnuramineni-05)
   
   
   
-</sub>
+</font>
