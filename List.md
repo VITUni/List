@@ -1,6 +1,6 @@
-## VIT University ( Vellore )
+## VIT University List
 
-|   |Full Name  |Profile  |GitJoin  |Org@VITuni |  
+|VITJoin   |FullName  |Profile  |GitJoin  |Org@VITuni |  
 |---|---|---|---|---|
 |  |Aneesh Neelam |(https://github.com/aneesh-neelam)|  |  |
 |  |Abhinav Das |(https://github.com/abhinav-adtechs)|||
