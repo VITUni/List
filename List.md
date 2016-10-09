@@ -1,16 +1,73 @@
-** NOTE: All the students from VIT University ( Vellore and Chennai Campus) are usually found & added here by using Github API. A sample this search is available at this URL (https://api.github.com/search/users?q=+location:vit). So, if you are in VIT please do include "VIT University" in your current location by editing your profile here (https://github.com/settings/profile).
-Add yourself to >>>>>>> @VITUni <<<<<<<<
-Thank You, Happy Coding!
-***
+### ** NOTE: All the students from VIT University ( Vellore and Chennai Campus) are usually found & added here by using Github API. A sample this search is available at this URL (https://api.github.com/search/users?q=+location:vit). So, if you are in VIT please do include "VIT University" in your current location by editing your profile here (https://github.com/settings/profile). **
+###### Add yourself to >>>>>>> @VITUni <<<<<<<<
+###### Thank You, Happy Coding!
 
-A 
-Aneesh Neelam                (https://github.com/aneesh-neelam)
-Abhyudaya Srinet             (https://github.com/abhyudayasrinet)
-Ayush Agarwal                (https://github.com/ayushagarwal95)
-Amit Srivastava              (https://github.com/amitspk)
-B
-Baishali Ghosh               (https://github.com/baishali-ghosh)
-D
+
+|  |  |  |  |  |
+|---|---|---|---|---|
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+|Name|Pro_Link|Joined_on|
+|A|||
+|Aneesh Neelam                ||(https://github.com/aneesh-neelam)|
+|Abhyudaya Srinet             ||(https://github.com/abhyudayasrinet)
+|Ayush Agarwal               | |(https://github.com/ayushagarwal95)|
+|Amit Srivastava             | |(https://github.com/amitspk)|
+|B|||
+|Baishali Ghosh               (https://github.com/baishali-ghosh)|
+|D|||
 Daksh Asija
 K
 Karthik Balakrishnan         (https://github.com/karthikb351)
