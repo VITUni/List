@@ -13,7 +13,7 @@
 |  |  |  |  |  |
 |  |Daksh Asija  |(https://github.com/dakshasija)  |  |  |
 |  |  |  |  |  |
-|  |Hemanth Sandesh Vaddi||https://github.com/hvaddi9|||
+|  |Hemanth Sandesh Vaddi|https://github.com/hvaddi9|||
 |  |Karthik Balakrishnan  |(https://github.com/karthikb351)  |  |  |
 |  |Kishore Narendran  |(https://github.com/kishore-narendran)  |  |  |
 |  |Krishna Kalubandi  |(https://github.com/kp96/)  |  |  |
