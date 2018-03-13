@@ -45,4 +45,5 @@
 ||Ayush Verma  |(https://github.com/GodsEye-07)|||
 ||Dhiraj Kumar Jain |(https://github.com/TheAlgo)|||
 ||Aman Kumar |(https://github.com/a4amann)|||
+||Harshit Kedia |(https://github.com/hkedia321)|||
 |  |  |  |  |  |
