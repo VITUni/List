@@ -3,6 +3,7 @@
 #### NOTE: All the students from VIT University ( Vellore and Chennai Campus) are usually found & added here by POST (using the native Github API). A sample search is available <a href="https://api.github.com/search/users?q=+location:vit">here</a>, <a href= "https://api.github.com/search/users?q=+location:vellore">here</a> & <a href= "https://api.github.com/search/users?q=+location:vitUniversity">here</a>.
 
 ###### Just pull in to add yourself.
+[Alternative iff you prefer `Visuals` more.](https://vituni.github.io/vellore-github-network/)
 
 *Thank You, Happy Coding @VITUni!*
 #    
